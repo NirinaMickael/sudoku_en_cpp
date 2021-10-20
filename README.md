@@ -9,5 +9,5 @@ les fichiers contiennent un résumé de ce que vous trouverez dans chacun des fi
    * c'est le fichier source principal de l'application
 autres fichiers standards
 # src/sdk.cpp et include/sdk.h
-    * ces fichiers sont utilisés pour créer un fichier d'en-tête précompilé
+   * ces fichiers sont utilisés pour créer un fichier d'en-tête précompilé
 fichier de types précompilé nommé sdk.obj.
