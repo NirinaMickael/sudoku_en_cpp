@@ -19,3 +19,23 @@
 
 1634289925 d:\projet\jeu de sudoku\include\sdk.h
 
+1634289939 source:d:\projet\nouveau dossier\main.cpp
+	<iostream>
+	<iostream>
+	<vector>
+	<iomanip>
+	<algorithm>
+	<ctime>
+	"sdk.h"
+
+1634289925 d:\projet\nouveau dossier\include\sdk.h
+
+1634627863 source:d:\projet\nouveau dossier\src\sdk.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	<ctime>
+	<algorithm>
+	<windows.h>
+	"sdk.h"
+
